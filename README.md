@@ -8,8 +8,9 @@
 
 ## Instalación
 1. Clonar el repositorio:
-'''bash
-git clone https://github.com/irenegonzalezgarcia-jpg/TFG-DAW.git
+```bash
+git clone https://github.com/irenegonzalezgarcia-jpg/TFG-DAW.git 
+```
 2. 
 
 
